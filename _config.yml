@@ -55,9 +55,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
-  username               : abdullahcakan
+  username               : 
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -81,10 +81,11 @@ author:
   name             : "Abdullah Çakan"
   avatar           : "profile.png"
   bio              : "Research Assistant"
-  location         : "Location"
+  location         : "Konya Technical University"
   employer         :
   googlescholar    : "https://scholar.google.com.tr/citations?user=8xaiOCsAAAAJ&hl=tr&authuser=4"
-  email            :
+  email            : "acakan@ktun.edu.tr"
+  researchgate     : "https://www.researchgate.net/profile/Abdullah-Cakan"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +93,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-3923-4069"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "abdullahcakan"
+  twitter          :
   vine             :
   weibo            :
   xing             :
