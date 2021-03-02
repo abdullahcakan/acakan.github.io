@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Abdullah ÇAKAN"
+description              : &description "Research Assistant"
 url                      : https://abdullahcakan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abdullahcakan/abdullahcakan.github.io"
@@ -78,13 +78,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abdullah Çakan"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+ name             : "Abdullah Çakan"
+  avatar           : "ac-profile.png"
+  bio              : "Research Assistant"
+  location         : "Konya Technical University"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com.tr/citations?user=8xaiOCsAAAAJ&hl=tr&authuser=4"
+  email            : "acakan@ktun.edu.tr"
+  researchgate     : "https://www.researchgate.net/profile/Abdullah-Cakan"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +94,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-3923-4069"  "_blank"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
