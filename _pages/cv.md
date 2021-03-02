@@ -47,7 +47,7 @@ Publications
 * **Cakan, A**., & Onen, U. (2016). *Position regulation and sway control of a nonlinear gantry crane system*. International journal of scientific & technology research, 5(11), 121-124.
 * Ogulmuş, A. S., **Çakan, A**., & Tınkır, M. (2016). *Modeling And Position Control Of Scara Type 3D Printer*. International Journal Of Scientific & Technology Research, 5, 140-143.
 * **Çakan, A**., & Botsali, F. M. (2016). *Inverse kinematics analysis of a puma robot by using MSC Adams*. In The VIth International Conference Industrial Engineering and Environmental Protection.
-* İlgen, S., Oflaz, E., Gülbahçe, E., **& Çakan**, A. (2016). *Modelling and control of a single-wheel inverted pendulum by using Adams and Matlab*. International Journal of Applied Mathematics Electronics and Computers, (Special Issue-1), 326-328.
+* İlgen, S., Oflaz, E., Gülbahçe, E., & **Çakan, A**. (2016). *Modelling and control of a single-wheel inverted pendulum by using Adams and Matlab*. International Journal of Applied Mathematics Electronics and Computers, (Special Issue-1), 326-328.
 * **Çakan, A**., Botsalı, F. M., & Tınkır, M. (2016, December). *PID Control of Inverted Pendulum Using Adams and Matlab Co-Simulation*. In Proceedings of the 4th international conference on control, mechatronics and automation (pp. 136-139).
 * Önen, Ü., & **Çakan, A**. (2017). *Anti-Swing Control of an Overhead Crane by Using Genetic Algorithm Based LQR*. International Journal of Engineering and Computer Science, 6(6), 21612-21616.
 * Önen, Ü., **Çakan, A**., & İlhan, İ. (2017). *Particle Swarm Optimization Based LQR Control of an Inverted Pendulum*. Engineering and Technology Journal, 2(5).
